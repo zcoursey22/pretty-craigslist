@@ -7,7 +7,7 @@
     {
       "css": ["main.css"],
       "js": ["craigslist.js"],
-      "matches": ["https://*.craigslist.org/"]
+      "matches": ["https://*.craigslist.org/", "file:///Users/zcoursey22/Documents/craigslistAreaPage.htm/"]
     }
   ]
 }
