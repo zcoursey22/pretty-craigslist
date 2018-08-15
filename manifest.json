@@ -1,0 +1,13 @@
+{
+  "manifest_version": 1,
+  "name": "Pretty Craigslist",
+  "version": "0.1.0",
+  "description": "Craigslist style and UI upgrade extension",
+  "content_scripts": [
+    {
+      "css": ["main.css"],
+      "js": ["craigslist.js"],
+      "matches": ["https://*.craigslist.org"]
+    }
+  ]
+}
